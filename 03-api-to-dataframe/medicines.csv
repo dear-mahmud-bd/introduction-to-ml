@@ -1,0 +1,28 @@
+,_id,name,category,price,manufacturer_name,manufacturer_contact
+0,67da9990b5e80de7460d3daa,BMX Stunt Pro,Antibiotics,1,Square Pharmaceuticals Ltd.,+8801712345678
+1,67d9ac2a68d4c00ba89b41ef,Paracetamol 500mg,Pain Relief,10,Square Pharmaceuticals Ltd.,+8801723456789
+2,67d9ac3f68d4c00ba89b41f4,Amoxicillin 500mg,Antibiotics,19,Beximco Pharmaceuticals Ltd.,+8801712345678
+3,67d9ac4c68d4c00ba89b41f9,Calbo-D,Supplements,30,Incepta Pharmaceuticals Ltd.,+8801912345678
+4,67d9ac5d68d4c00ba89b41fe,Ranitidine 150mg,Gastrointestinal,40,Renata Limited,+8801812345678
+5,67d9ac8668d4c00ba89b4205,Aspirin 75mg,Cardiovascular,50,ACI Pharmaceuticals,+8801612345678
+6,67d9ac9868d4c00ba89b420a,Glimepiride 2mg,Diabetes Management,60,Square Pharmaceuticals Ltd.,+8801723456789
+7,67da7daab5e80de7460d3ce7,Loperamide 2mg,Gastrointestinal,67,Incepta Pharmaceuticals Ltd.,+8801912345678
+8,67d9aca468d4c00ba89b420f,Salbutamol Inhaler,Respiratory,70,Beximco Pharmaceuticals Ltd.,+8801712345678
+9,67d9acb868d4c00ba89b4214,Amitriptyline 25mg,Neurological,80,Incepta Pharmaceuticals Ltd.,+8801912345678
+10,67d9acc768d4c00ba89b4219,Clotrimazole Cream,Dermatology,90,Renata Limited,+8801812345678
+11,67da7d1bb5e80de7460d3ca5,Aspirin 81mg,Pain Relief,98,Square Pharmaceuticals Ltd.,+8801723456789
+12,67d9acdd68d4c00ba89b421e,Loratadine 10mg,Allergy & Immunology,100,ACI Pharmaceuticals,+8801612345678
+13,67da7d26b5e80de7460d3caa,Naproxen 250mg,Pain Relief,100,Incepta Pharmaceuticals Ltd.,+8801912345678
+14,67da7dbcb5e80de7460d3cf1,Lactulose Syrup,Gastrointestinal,128,Square Pharmaceuticals Ltd.,+8801723456789
+15,67da7d5ab5e80de7460d3cbc,Doxycycline 100mg,Antibiotics,157,Renata Limited,+8801812345678
+16,67da7d75b5e80de7460d3ccb,Fish Oil 1000mg,Supplements,169,ACI Pharmaceuticals,+8801612345678
+17,67da7d31b5e80de7460d3caf,Diclofenac 50mg,Pain Relief,175,Beximco Pharmaceuticals Ltd.,+8801712345678
+18,67da7d63b5e80de7460d3cc1,Ciprofloxacin 500mg,Antibiotics,188,Square Pharmaceuticals Ltd.,+8801723456789
+19,67da7db3b5e80de7460d3cec,Esomeprazole 40mg,Gastrointestinal,224,Renata Limited,+8801812345678
+20,67da7d85b5e80de7460d3cd5,Multivitamin,Supplements,261,ACI Pharmaceuticals,+8801612345678
+21,67da7d51b5e80de7460d3cb7,Cefuroxime 250mg,Antibiotics,291,ACI Pharmaceuticals,+8801612345678
+22,67da7d6cb5e80de7460d3cc6,Vitamin C 500mg,Supplements,303,ACI Pharmaceuticals,+8801612345678
+23,67da7d7db5e80de7460d3cd0,Calcium + Vitamin D,Supplements,306,Square Pharmaceuticals Ltd.,+8801723456789
+24,67da7d8fb5e80de7460d3cda,Zinc 50mg,Supplements,416,Incepta Pharmaceuticals Ltd.,+8801912345678
+25,67da7d0eb5e80de7460d3ca0,Ibuprofen 400mg,Pain Relief,491,ACI Pharmaceuticals,+8801612345678
+26,67da7d97b5e80de7460d3cdf,Omeprazole 20mg,Gastrointestinal,498,Incepta Pharmaceuticals Ltd.,+8801912345678
