@@ -1,0 +1,401 @@
+,name,isVerified,rating,reviews,company_type,salaries,jobs
+0,TCS,1,3.7,(93.1k),IT Services & Consulting,8.8L,163
+1,Accenture,0,3.8,(58.9k),IT Services & Consulting,5.9L,10.8k
+2,Wipro,1,3.7,(54.9k),IT Services & Consulting,4.5L,3.4k
+3,Cognizant,1,3.7,(52.1k),IT Services & Consulting,5.7L,199
+4,Capgemini,1,3.7,(43.7k),IT Services & Consulting,4.4L,2.1k
+5,HDFC Bank,1,3.9,(41.1k),Banking,1.4L,521
+6,Infosys,1,3.6,(40.9k),IT Services & Consulting,4.8L,2.3k
+7,ICICI Bank,0,4.0,(39.3k),Banking,1.5L,15
+8,HCLTech,1,3.5,(37.6k),IT Services & Consulting,3.4L,223
+9,Tech Mahindra,1,3.5,(36.4k),IT Services & Consulting,2.7L,681
+10,Genpact,0,3.8,(32.8k),IT Services & Consulting,2.1L,446
+11,Teleperformance,1,3.9,(30.8k),BPO,91.2k,408
+12,Concentrix Corporation,1,3.8,(27.3k),BPO,1.2L,135
+13,Axis Bank,1,3.8,(26.4k),Banking,99.4k,173
+14,Amazon,1,4.1,(26k),Internet,1.3L,2k
+15,Jio,1,4.0,(24.1k),Telecom,63.5k,128
+16,iEnergizer,1,4.6,(23.3k),BPO,22.7k,201
+17,Reliance Retail,1,3.9,(23.1k),Retail,67.2k,106
+18,IBM,1,4.0,(23.1k),IT Services & Consulting,2L,1.2k
+19,LTIMindtree,1,3.8,(21.8k),IT Services & Consulting,1.7L,387
+20,HDB Financial Services,0,3.9,(21k),NBFC,49.5k,201
+21,Larsen & Toubro Limited,1,4.0,(19.3k),Engineering & Construction,69.6k,159
+22,Deloitte,1,3.8,(18.4k),Management Consulting,1.9L,127
+23,Kotak Mahindra Bank,0,3.7,(17.6k),Banking,82.8k,65
+24,Reliance Industries,1,4.0,(16.6k),Oil & Gas,68.3k,27
+25,BYJU'S,1,3.1,(16.2k),EdTech,58.4k,--
+26,Vodafone Idea,1,4.0,(15.7k),Telecom,52.9k,24
+27,Bharti Airtel,0,4.0,(14.2k),Telecom,46.7k,170
+28,WNS,0,3.4,(12.4k),BPO,63k,112
+29,Tata Motors,0,4.2,(12.2k),Automobile,41.3k,10
+30,AU Small Finance Bank,1,4.2,(11.9k),Banking,26.1k,77
+31,IndusInd Bank,1,3.5,(11.4k),Banking,49.4k,2.7k
+32,Ernst & Young,1,3.4,(11.3k),Management Consulting,1.2L,1.9k
+33,Flipkart,1,3.9,(11.1k),Internet,49k,107
+34,IDFC FIRST Bank,1,3.9,(10.7k),Banking,45k,65
+35,DXC Technology,1,3.7,(10.3k),IT Services & Consulting,74.7k,205
+36,Infosys BPM,1,3.6,(10.2k),BPO,66.9k,48
+37,Mahindra & Mahindra,1,4.1,(10.1k),Automobile,37.2k,52
+38,Bajaj Finserv,1,4.0,(9.7k),Financial Services,27.6k,30
+39,PwC,0,3.4,(9.6k),Management Consulting,92.4k,2k
+40,HDFC Life,0,4.0,(9.4k),Insurance,30.5k,136
+41,Conneqt Business Solutions,1,3.6,(9.1k),BPO,26.9k,339
+42,Mphasis,1,3.4,(8.7k),IT Services & Consulting,68.8k,157
+43,Bandhan Bank,1,3.7,(8.1k),Banking,22.8k,2
+44,Yes Bank,0,3.7,(8k),Banking,42.6k,364
+45,Startek,0,3.1,(7.8k),Bangalore / Bengaluru +78 other locations,23.6k,65
+46,Paytm,1,3.3,(7.7k),FinTech,32.6k,401
+47,Tata Steel,0,4.1,(7.7k),Iron & Steel,30.6k,--
+48,Asian Paints,1,4.0,(7.6k),Chemicals,23.1k,28
+49,Quess,1,3.9,(7.7k),BPO,28.9k,87
+50,Maruti Suzuki,1,4.2,(7.5k),Automobile,25.5k,788
+51,UltraTech Cement,0,4.2,(7.4k),Building Material,22.3k,26
+52,Samsung,0,3.9,(7.4k),Consumer Electronics & Appliances,26.1k,5
+53,Shriram Finance,1,4.1,(7.4k),NBFC,14k,20
+54,Ericsson,1,4.1,(7.4k),Telecom,42.1k,153
+55,EXL Service,1,3.7,(7.3k),Analytics & KPO,40.2k,65
+56,Sutherland Global Services,1,3.6,(7.3k),IT Services & Consulting,30.7k,196
+57,Cipla,1,4.1,(7.1k),Pharma,24.5k,80
+58,Muthoot Fincorp,1,4.5,(7.1k),NBFC,8.4k,45
+59,HGS,1,3.8,(7k),BPO,22.9k,23
+60,Dr. Reddy's,1,4.0,(7k),Pharma,24.4k,9
+61,Bajaj Finance,0,4.0,(7k),NBFC,21k,2k
+62,Wells Fargo,1,3.8,(6.7k),Financial Services,50.8k,254
+63,Amazon Development Centre India,0,4.1,(6.5k),Internet,32.9k,17
+64,ICICI Prudential Life Insurance,0,4.1,(6.4k),Insurance,21.8k,397
+65,JPMorgan Chase & Co.,1,3.9,(6.4k),Financial Services,72.5k,794
+66,Delhivery,1,3.8,(6.3k),Logistics,19.3k,105
+67,Hindustan Unilever,0,4.2,(6.3k),FMCG,21.3k,39
+68,Jana Small Finance Bank,0,3.8,(6.2k),Banking,14.3k,25
+69,Optum Global Solutions,1,4.0,(6.3k),IT Services & Consulting,40.4k,96
+70,Lupin,0,4.1,(6.2k),Pharma,22.4k,90
+71,L&T Construction,0,4.0,(6.2k),Engineering & Construction,18.7k,--
+72,Hexaware Technologies,1,3.5,(6.2k),IT Services & Consulting,48.3k,153
+73,Zydus Lifesciences,1,4.1,(6.1k),Pharma,18.7k,27
+74,Equitas Small Finance Bank,1,4.5,(6.1k),Banking,12.3k,1.4k
+75,JSW Steel,1,3.9,(6.1k),Iron & Steel,27.2k,100
+76,Sun Pharmaceutical Industries,1,4.0,(6k),Pharma,21.7k,192
+77,ITC,0,3.9,(5.8k),FMCG,22.9k,79
+78,KPMG India,0,3.5,(5.7k),Management Consulting,54k,1.1k
+79,FIS,1,3.9,(5.7k),IT Services & Consulting,37.9k,28
+80,HCL Group,0,3.6,(5.6k),IT Services & Consulting,48.9k,4
+81,Axis Max Life Insurance,1,4.1,(5.6k),Insurance,17.9k,208
+82,Ujjivan Small Finance Bank,0,4.1,(5.5k),Banking,12.5k,39
+83,Ekart Logistics,0,3.9,(5.5k),Bangalore / Bengaluru +675 other locations,14.1k,1
+84,Tata Projects,1,4.2,(5.5k),Engineering & Construction,20.2k,27
+85,Oracle,1,3.7,(5.4k),Software Product,56.8k,1.3k
+86,Indian Army,0,4.7,(5.4k),Defence & Aerospace,9.6k,--
+87,IIFL Finance,1,4.0,(5.4k),NBFC,14.5k,53
+88,Megha Engineering & Infrastructures,0,3.9,(5.3k),Engineering & Construction,16.6k,39
+89,Muthoot Finance,1,3.6,(5.2k),NBFC,12.3k,140
+90,eClerx,1,3.3,(5.2k),IT Services & Consulting,29.1k,60
+91,Udaan,0,4.0,(5.1k),Internet,17k,5
+92,Omega Healthcare,1,3.7,(5.1k),BPO,23.4k,102
+93,Bajaj Allianz Life Insurance,1,3.9,(5.1k),Insurance,16k,145
+94,JLL,1,4.1,(5.1k),Real Estate,21.5k,319
+95,L&T Technology Services,0,3.3,(5.1k),IT Services & Consulting,38.8k,514
+96,Virtusa Consulting Services,0,3.8,(5k),IT Services & Consulting,53.1k,46
+97,Indiamart Intermesh,1,3.6,(5k),Internet,19.1k,667
+98,Coforge,1,3.3,(5k),IT Services & Consulting,41.8k,322
+99,HSBC Group,0,3.9,(4.9k),Financial Services,37.2k,228
+100,Siemens,1,4.1,(4.9k),Industrial Automation,30.8k,1.3k
+101,Aurobindo Pharma,0,4.0,(4.9k),Pharma,21.4k,18
+102,Shapoorji Pallonji Group,0,4.1,(4.8k),Engineering & Construction,15k,36
+103,Standard Chartered,1,3.7,(4.8k),Banking,39.9k,--
+104,Firstsource Solutions,0,3.6,(4.7k),BPO,22.5k,103
+105,DMart,1,3.9,(4.7k),Retail,16k,117
+106,CGI Group,1,4.0,(4.7k),IT Services & Consulting,43.3k,209
+107,Cholamandalam Investment & Finance,1,3.9,(4.8k),Financial Services,11.1k,24
+108,GlobalLogic,1,3.7,(4.7k),IT Services & Consulting,36.2k,40
+109,Apollo Hospitals,0,4.1,(4.7k),Healthcare,16.1k,34
+110,Ashok Leyland,0,4.1,(4.6k),Automobile,18k,1
+111,ICICI Lombard General Insurance Company,1,3.7,(4.6k),Insurance,18.8k,100
+112,BigBasket,1,3.9,(4.7k),Internet,17.4k,52
+113,Cyient,0,3.7,(4.6k),IT Services & Consulting,26.3k,62
+114,Bosch Global Software Technologies,0,3.9,(4.6k),IT Services & Consulting,36.6k,21
+115,UST,1,3.8,(4.6k),IT Services & Consulting,36.7k,1.1k
+116,Citicorp,0,3.7,(4.6k),Financial Services,44.7k,--
+117,Hero MotoCorp,1,4.1,(4.5k),Automobile,14.9k,1
+118,Mahindra Finance,0,4.1,(4.5k),NBFC,11.1k,46
+119,JustDial,1,3.5,(4.5k),Internet,15.1k,47
+120,Eviden,0,3.6,(4.4k),IT Services & Consulting,29.8k,45
+121,Vivo,0,4.1,(4.4k),Consumer Electronics & Appliances,13.2k,5
+122,SMFG India Credit,0,4.0,(4.4k),NBFC,10.5k,97
+123,Home Credit Finance,1,4.1,(4.3k),NBFC,10.5k,79
+124,Manappuram Finance,0,3.9,(4.3k),NBFC,8.5k,36
+125,BNY,1,3.9,(4.3k),Financial Services,28.7k,87
+126,Atos,0,3.8,(4.2k),IT Services & Consulting,31.7k,32
+127,TVS Motor,1,4.0,(4.3k),Automobile,15k,6
+128,IQVIA,0,3.9,(4.2k),Clinical Research,28.2k,28
+129,Swiggy,0,3.8,(4.3k),Internet,20.8k,175
+130,SBI Cards & Payment Services,0,3.7,(4.2k),Financial Services,15.3k,59
+131,Nagarro,1,4.0,(4.2k),IT Services & Consulting,27.6k,307
+132,OPPO,1,4.0,(4.2k),Consumer Electronics & Appliances,12.4k,10
+133,Kalpataru Projects International,0,4.1,(4.2k),Engineering & Construction,12.7k,2
+134,Amdocs,1,3.7,(4.1k),Software Product,35.6k,41
+135,Persistent Systems,1,3.5,(4.1k),IT Services & Consulting,38.6k,206
+136,CBRE,0,4.2,(4.1k),Real Estate,17.2k,55
+137,NTT Data,1,3.8,(4.1k),IT Services & Consulting,28.6k,122
+138,State Bank of India,0,3.8,(4k),Banking,11k,--
+139,Bosch,0,4.2,(4k),Auto Components,20k,280
+140,Hewlett Packard Enterprise,1,4.2,(4k),IT Services & Consulting,27.1k,13
+141,Mahindra Logistics,1,3.9,(3.9k),Logistics,13.3k,10
+142,JBM Group,0,4.0,(4k),Auto Components,13.7k,29
+143,SBI Life Insurance Company,0,3.8,(4k),Insurance,11.1k,6
+144,Schneider Electric,0,4.1,(4k),Industrial Automation,21.8k,447
+145,Dell,0,3.9,(3.9k),Consumer Electronics & Appliances,27.4k,46
+146,PolicyBazaar,1,3.6,(4k),Internet,15.1k,148
+147,Ecom Express,1,3.8,(3.9k),Logistics,9.4k,29
+148,Nagarjuna Construction Company,0,4.1,(3.9k),Engineering & Construction,10.8k,21
+149,Piramal Capital Housing Finance,1,4.2,(3.8k),NBFC,9.1k,1
+150,KEC International,1,4.0,(3.8k),Engineering & Construction,12k,2
+151,Aditya Birla Fashion and Retail,0,4.1,(3.7k),Fashion & Textile,12.6k,17
+152,Hyundai Motor India Limited,1,4.3,(3.7k),Automobile,12.7k,7
+153,Varun Beverages,1,4.0,(3.7k),Beverage,11.3k,64
+154,CARS24,1,3.5,(3.7k),Internet,14.2k,119
+155,Randstad,0,3.8,(3.7k),Recruitment,15.3k,96
+156,Oyo Rooms,1,3.3,(3.6k),Hospitality,20.2k,57
+157,EY Global Delivery Services ( EY GDS),1,3.6,(3.6k),Accounting & Auditing,33.9k,7
+158,Bajaj Auto,1,3.9,(3.6k),Automobile,13.6k,103
+159,Deutsche Bank,0,3.9,(3.6k),Banking,31.6k,956
+160,L&T Finance,1,3.9,(3.6k),NBFC,11k,7
+161,Reliance Communications,0,4.0,(3.5k),Telecom,10.8k,--
+162,Intas Pharmaceuticals,1,4.1,(3.5k),Pharma,16k,24
+163,ITC Infotech,1,3.6,(3.6k),IT Services & Consulting,28.2k,89
+164,Team Lease,0,3.9,(3.5k),Recruitment,15.3k,--
+165,R1 RCM,0,3.9,(3.5k),BPO,18.9k,146
+166,Tata Communications,1,4.0,(3.5k),Telecom,23k,24
+167,Havells,0,4.0,(3.5k),Electrical Equipment,13.3k,24
+168,Access Healthcare,1,3.9,(3.5k),Analytics & KPO,21.5k,164
+169,Royal Enfield,1,4.2,(3.4k),Automobile,13.8k,--
+170,John Deere,0,4.1,(3.4k),Industrial Machinery,14.8k,19
+171,Hetero,1,3.8,(3.4k),Pharma,14.5k,42
+172,LG Electronics,0,4.0,(3.4k),Consumer Electronics & Appliances,10.4k,--
+173,Thermax Limited,1,4.1,(3.4k),Industrial Machinery,12.2k,40
+174,Macleods Pharmaceuticals,0,3.6,(3.4k),Mumbai +115 other locations,14.8k,12
+175,Aakash Educational Services,1,3.4,(3.3k),Education & Training,12.3k,79
+176,HDFC Ergo General Insurance,1,3.9,(3.3k),Insurance,11.7k,--
+177,Tata AIA Life Insurance,0,4.0,(3.3k),Insurance,12.8k,320
+178,Utkarsh Small Finance Bank,0,3.8,(3.3k),Banking,10.3k,29
+179,Publicis Sapient,1,3.5,(3.3k),IT Services & Consulting,27.2k,184
+180,DCB Bank,1,3.8,(3.3k),Banking,9.3k,66
+181,Cummins,1,4.3,(3.3k),Industrial Machinery,15.1k,84
+182,VE Commercial Vehicles,0,3.9,(3.2k),Automobile,12.8k,5
+183,PVR Inox,0,4.0,(3.2k),Media & Entertainment,9.5k,32
+184,Viatris,0,4.2,(3.2k),Pharma,13.8k,4
+185,Berger Paints,0,3.7,(3.2k),Chemicals,9.2k,134
+186,Carelon Global Solutions,0,3.9,(3.2k),Software Product,25k,12
+187,Godrej & Boyce Manufacturing,0,3.9,(3.2k),Consumer Electronics & Appliances,15.4k,64
+188,Samvardhana Motherson Group,0,3.7,(3.2k),Auto Components,12.5k,6
+189,Lenskart,1,3.2,(3.2k),Internet,11.3k,166
+190,Subros,0,3.8,(3.2k),Auto Components,12.1k,1
+191,Pidilite Industries,1,4.3,(3.2k),Chemicals,10.1k,7
+192,Automatic Data Processing (ADP),0,4.0,(3.2k),Software Product,20.3k,36
+193,Alembic Pharmaceuticals,1,4.0,(3.2k),Pharma,14.3k,56
+194,American Express,0,4.2,(3.2k),Financial Services,21.6k,168
+195,Bank of America,0,4.2,(3.2k),Banking,25.2k,63
+196,Abbott,1,4.1,(3.1k),Pharma,11.1k,255
+197,Sodexo,0,4.1,(3.1k),Facility Management Services,9.7k,101
+198,Jindal Steel and Power,0,3.9,(3.1k),Iron & Steel,14.3k,15
+199,Hindalco Industries,0,4.2,(3.1k),Metals & Mining,10.7k,50
+200,Bharat Electronics,0,4.2,(3.1k),Electronics Manufacturing,11.9k,--
+201,RBL Bank,0,3.6,(3.1k),Banking,17.1k,27
+202,Jubilant Foods Works,0,3.7,(3.1k),Hospitality,8.3k,41
+203,Kogta Financial India Limited,1,4.7,(3k),NBFC,1.7k,52
+204,Reliance Projects & Property Management Services,1,4.0,(3k),IT Services & Consulting,6.8k,--
+205,Indian Oil Corporation,0,4.4,(3k),Oil & Gas,7.8k,--
+206,Future Group,0,4.2,(3k),Retail,9.4k,--
+207,Birlasoft,1,3.6,(3k),IT Services & Consulting,28.6k,11
+208,Synechron,1,3.5,(3k),IT Services & Consulting,27.3k,176
+209,Escorts Kubota Limited,1,4.1,(3k),Automobile,12k,10
+210,Cogent E Services,0,3.3,(3k),Noida +47 other locations,9.6k,1
+211,Maersk,1,4.1,(3.1k),Logistics,17.4k,143
+212,Dabur,0,4.0,(3k),FMCG,8.3k,45
+213,Marpu Foundation,1,4.8,(3k),Non-Profit,49,--
+214,Reliance Digital,0,4.1,(3k),Retail,8k,--
+215,Johnson Controls,1,3.6,(3k),Industrial Automation,16.4k,242
+216,Ford Motor,0,4.3,(3k),Automobile,14.5k,--
+217,"NTT DATA, Inc.",1,4.0,(3k),IT Services & Consulting,26.3k,775
+218,State Street Corporation,0,3.7,(3k),Financial Services,27.4k,9
+219,Glenmark Pharmaceuticals,0,3.9,(2.9k),Pharma,11.4k,95
+220,Alkem Laboratories,1,3.9,(2.9k),Pharma,9.2k,72
+221,Ipca Laboratories,0,3.9,(2.9k),Pharma,11.1k,46
+222,24/7 Customer,0,3.5,(2.9k),Software Product,13.3k,34
+223,UBS,1,3.9,(2.9k),Financial Services,28.8k,--
+224,PNB MetLife,0,3.4,(2.9k),Insurance,7.7k,330
+225,Aarti Industries,0,4.1,(2.9k),Agro Chemicals,13.8k,26
+226,Vishal Mega Mart,1,3.7,(2.9k),Retail,6.3k,--
+227,Kotak Mahindara Life Insurance,1,3.7,(2.9k),Insurance,11.5k,97
+228,Kyndryl,1,4.0,(2.9k),IT Services & Consulting,21.4k,39
+229,JK Cement,1,4.1,(2.9k),Building Material,8.9k,--
+230,Honda Motorcycle & Scooter,0,4.1,(2.9k),Automobile,11k,--
+231,KPIT Technologies,1,3.4,(2.9k),Software Product,21k,35
+232,MRF Tyres,0,3.7,(2.8k),Auto Components,11.6k,24
+233,Indian Air Force,0,4.5,(2.8k),Defence & Aerospace,5.3k,--
+234,Hindustan Coca Cola Beverages,0,4.1,(2.8k),Beverage,7.5k,50
+235,HARMAN,0,3.7,(2.8k),Consumer Electronics & Appliances,23.5k,309
+236,Motilal Oswal Financial Services,1,3.7,(2.9k),Financial Services,10.5k,48
+237,DTDC Express,1,3.7,(2.8k),Logistics,8.4k,24
+238,IGT Solutions,0,3.3,(2.8k),IT Services & Consulting,12.4k,110
+239,Aditya Birla Sun Life Insurance,0,4.0,(2.8k),Insurance,8.9k,2
+240,Reliance Nippon Life Insurance,0,3.6,(2.8k),Insurance,8.3k,10
+241,ABB,1,4.1,(2.8k),Industrial Machinery,15.9k,21
+242,Conduent,1,3.5,(2.8k),BPO,17.5k,52
+243,Ceat Tyres,0,4.0,(2.8k),Auto Components,12.3k,3
+244,NatWest Group,0,4.0,(2.8k),Banking,19.5k,1
+245,Square Yards,1,3.7,(2.7k),Internet,8.7k,49
+246,GeBBS Healthcare Solutions,1,3.7,(2.8k),Healthcare,11.2k,41
+247,InterGlobe Aviation,0,3.6,(2.7k),Aviation,12.9k,32
+248,Grasim Industries,0,4.0,(2.7k),Building Material,10.9k,5
+249,Whitehat jr,1,3.4,(2.7k),EdTech,9.5k,--
+250,UnitedHealth,0,4.0,(2.7k),Healthcare,17.2k,--
+251,Alstom Transportation,1,3.7,(2.7k),Engineering & Construction,12.9k,121
+252,ArcelorMittal Nippon Steel,1,4.1,(2.7k),Iron & Steel,10.1k,11
+253,RSPL Group,1,4.1,(2.7k),FMCG,9k,29
+254,Tata Capital,0,4.0,(2.7k),NBFC,9.6k,894
+255,CMS IT Services,0,3.1,(2.7k),IT Services & Consulting,10k,7
+256,Max Healthcare,1,4.1,(2.7k),Healthcare,9.7k,100
+257,Tata Technologies,1,3.6,(2.7k),Engineering & Construction,20.6k,80
+258,Tata AIG,0,4.1,(2.6k),Insurance,10.7k,108
+259,PepsiCo,1,4.0,(2.6k),Food Processing,11.4k,286
+260,S&P Global,0,4.1,(2.6k),Analytics & KPO,18.1k,212
+261,Titan Company,1,4.3,(2.6k),Retail,8.9k,69
+262,Varroc Group,1,3.6,(2.6k),Auto Components,8.9k,35
+263,UNO Minda,1,4.0,(2.6k),Auto Components,9.6k,16
+264,Amazon Transportation Services,0,4.2,(2.6k),Hyderabad / Secunderabad +208 other locations,7.7k,--
+265,UPL,0,4.1,(2.6k),Agro Chemicals,10.8k,61
+266,ACC,0,3.9,(2.6k),Building Material,9.2k,4
+267,Zensar Technologies,1,3.7,(2.6k),IT Services & Consulting,25.2k,265
+268,Torrent Pharmaceuticals,0,3.9,(2.6k),Pharma,10.1k,46
+269,Croma,1,4.0,(2.6k),Retail,7.7k,52
+270,Mankind Pharma,1,3.9,(2.5k),Pharma,8.6k,16
+271,Walmart,0,3.7,(2.5k),Retail,17.9k,213
+272,Afcons Infrastructure,1,4.2,(2.5k),Engineering & Construction,8k,4
+273,Shoppers Stop,0,4.1,(2.5k),Retail,7.1k,9
+274,Bajaj Allianz General Insurance,0,3.9,(2.5k),Insurance,8.8k,298
+275,Societe Generale Global Solution Centre,1,3.8,(2.5k),IT Services & Consulting,20.7k,21
+276,Barclays,0,3.8,(2.5k),Banking,25.6k,--
+277,Dilip Buildcon,0,4.0,(2.5k),Engineering & Construction,8.1k,12
+278,TVS Credit,1,4.3,(2.5k),NBFC,6.6k,21
+279,I Process Services,0,3.9,(2.5k),Mumbai +356 other locations,5.4k,2
+280,Quest Global,1,3.6,(2.5k),IT Services & Consulting,19k,103
+281,HDFC Sales,0,4.0,(2.4k),Financial Services,7.9k,29
+282,Capita,0,3.6,(2.4k),IT Services & Consulting,13.7k,56
+283,Flex,1,4.0,(2.4k),Electronics Manufacturing,16.6k,137
+284,Sahrudaya Healthcare (Medicover Hospitals),1,4.5,(2.4k),Healthcare,3.1k,31
+285,Nokia,0,4.1,(2.5k),Telecom,15.1k,35
+286,MSN Laboratories,1,3.7,(2.4k),Pharma,8.5k,48
+287,ElasticRun,1,3.5,(2.4k),Logistics,6.3k,6
+288,Fiserv,0,3.0,(2.4k),FinTech,18.4k,38
+289,PhonePe,0,4.0,(2.4k),FinTech,10.3k,139
+290,Apollo Tyres,0,4.0,(2.4k),Auto Components,9.5k,3
+291,Nestle,1,3.9,(2.4k),FMCG,9.3k,75
+292,IKS Health,1,3.6,(2.4k),BPO,10.2k,47
+293,Statestreet HCL Services,0,3.3,(2.3k),BPO,16k,--
+294,GATI-KWE,0,3.9,(2.3k),Logistics,5.6k,4
+295,Suzlon Group,0,4.1,(2.3k),Power,7.4k,37
+296,Zomato,1,3.8,(2.4k),Internet,13k,2
+297,Landmark Group,1,4.0,(2.3k),Retail,9.2k,1
+298,AGS Health,1,4.0,(2.3k),Analytics & KPO,10.6k,27
+299,IDFC FIRST Bharat,0,4.4,(2.3k),Financial Services,4.6k,1
+300,Sammaan Capital Limited,1,3.7,(2.3k),NBFC,7.3k,21
+301,Blue Dart Express,0,4.0,(2.3k),Logistics,6.4k,4
+302,BlackBuck,1,3.8,(2.3k),Internet,6.5k,8
+303,Fujitsu,0,3.8,(2.3k),IT Services & Consulting,16.3k,82
+304,DS Group,1,4.1,(2.3k),FMCG,6.8k,34
+305,Paras Hospital,1,4.4,(2.3k),Healthcare,3k,24
+306,Yazaki,0,3.8,(2.3k),Auto Components,8.2k,7
+307,Shree Cement,0,3.8,(2.3k),Building Material,9.3k,--
+308,Domino's Pizza,0,3.9,(2.3k),New Delhi +229 other locations,4.3k,--
+309,Tata Elxsi,1,3.8,(2.3k),IT Services & Consulting,19.5k,32
+310,XpressBees,1,3.6,(2.3k),Pune +260 other locations,7.7k,4
+311,Bajaj Electricals,1,4.0,(2.2k),Consumer Electronics & Appliances,7.8k,37
+312,Britannia,0,4.0,(2.3k),FMCG,7.7k,11
+313,Micro Labs,0,3.6,(2.2k),Pharma,9.5k,13
+314,KPMG Global Services,0,3.5,(2.3k),Management Consulting,20.1k,--
+315,Sterlite Technologies,0,3.8,(2.2k),Hardware & Networking,10.2k,42
+316,Exide Industries,0,3.5,(2.2k),Auto Components,8k,54
+317,G4S,0,4.0,(2.2k),Law Enforcement & Security,4.9k,22
+318,Indus Towers,1,3.8,(2.2k),Hardware & Networking,8.1k,35
+319,KocharTech,1,3.9,(2.2k),IT Services & Consulting,3.9k,44
+320,Axis Direct,0,3.8,(2.2k),Financial Services,5.3k,21
+321,TVS Supply Chain Solutions,0,3.8,(2.2k),Chennai +142 other locations,8.2k,1
+322,Voltas,1,4.0,(2.2k),Consumer Electronics & Appliances,8.3k,3
+323,Capgemini Engineering,0,3.5,(2.2k),IT Services & Consulting,16.8k,267
+324,McDonald's,0,4.1,(2.2k),New Delhi +142 other locations,4.7k,2
+325,VVDN Technologies,0,3.6,(2.2k),IT Services & Consulting,11.8k,10
+326,KFintech,0,3.5,(2.2k),FinTech,10k,15
+327,Jindal Stainless,0,4.2,(2.2k),Iron & Steel,10k,4
+328,ZS,1,3.3,(2.2k),Management Consulting,16.7k,157
+329,Patanjali Ayurved,0,3.9,(2.2k),FMCG,6.4k,--
+330,Alldigi Tech,1,4.0,(2.2k),BPO,7k,28
+331,Blinkit,0,3.7,(2.2k),Internet,9.5k,--
+332,Fortis Healthcare,1,4.0,(2.2k),Healthcare,7.4k,84
+333,Dalmia Bharat Cement,0,4.0,(2.2k),Building Material,8.3k,1
+334,Tractors and Farm Equipment,0,4.0,(2.1k),Industrial Machinery,8.2k,23
+335,SRF,0,4.1,(2.2k),Chemicals,8.1k,13
+336,Shell,0,4.0,(2.2k),Oil & Gas,13.3k,9
+337,Blue Star,1,4.1,(2.1k),Consumer Electronics & Appliances,9.2k,24
+338,ACT Fibernet,0,4.0,(2.1k),Telecom,7.5k,52
+339,NoBroker,1,3.2,(2.1k),Real Estate,9.4k,72
+340,Movate,1,3.3,(2.1k),IT Services & Consulting,13.9k,76
+341,Himalaya Wellness,0,4.1,(2.1k),Bangalore / Bengaluru +210 other locations,5.9k,9
+342,Taj Hotels Resorts and Palaces,0,4.2,(2.1k),Mumbai +102 other locations,4.8k,--
+343,Sonalika Tractors,0,3.7,(2.1k),Automobile,8.4k,--
+344,Huawei Technologies,0,4.0,(2.1k),Telecom,10k,--
+345,Kansai Nerolac Paints,0,3.8,(2.1k),Chemicals,6.9k,4
+346,Ajanta Pharma,0,4.0,(2.1k),Pharma,8.6k,36
+347,V-Mart,1,4.1,(2.1k),Retail,4.3k,21
+348,Datamatics Global Services,1,3.4,(2.1k),IT Services & Consulting,11.6k,98
+349,Foundever,1,3.6,(2.1k),BPO,7.7k,121
+350,Lava International,1,4.0,(2k),Consumer Electronics & Appliances,4.7k,6
+351,Info Edge,1,3.9,(2k),Internet,11.1k,391
+352,Mahindra Rural Housing Finance,0,4.0,(2k),NBFC,4.9k,15
+353,suzuki motor gujarat,0,4.2,(2k),Automobile,7.3k,11
+354,Akums Drugs & Pharmaceuticals Limited,1,4.4,(2k),Pharma,6k,11
+355,Simplex Infrastructures,1,3.3,(2k),Engineering & Construction,5.7k,--
+356,Lifestyle,0,4.3,(2k),Retail,7k,13
+357,Aditya Birla Group,0,4.1,(2k),Building Material,10.1k,1
+358,3i Infotech,1,3.4,(2k),IT Services & Consulting,10.8k,65
+359,MagicBricks,1,4.4,(1.8k),Internet,4.2k,44
+360,Unacademy,1,3.0,(2k),EdTech,9.7k,134
+361,Cholamandalam MS General Insurance,0,3.8,(2k),Insurance,5.8k,--
+362,Gallagher,1,3.7,(2k),Insurance,12k,29
+363,ESAF Small Finance Bank,0,3.7,(2k),Banking,6.7k,7
+364,Mahindra Holidays & Resorts,1,3.5,(2k),Hospitality,6.1k,59
+365,BT Group,0,3.9,(2k),Telecom,10.7k,9
+366,Cybage,0,3.8,(2k),IT Services & Consulting,16.8k,9
+367,Ola Cabs,0,3.4,(2k),Internet,10.8k,8
+368,Myntra,1,4.0,(2k),Internet,9.9k,58
+369,ICICI Securities,1,3.9,(2k),Financial Services,8.9k,3
+370,Parle Agro,0,4.0,(2k),Beverage,6.9k,5
+371,Intellect Design Arena,1,3.9,(2k),Software Product,11.9k,5
+372,Delhi Public School,0,3.9,(2k),New Delhi +254 other locations,5.4k,66
+373,Eureka Forbes,0,3.7,(2k),Consumer Electronics & Appliances,5.5k,4
+374,Care Health Insurance,0,3.6,(2k),Internet,8k,54
+375,Syngene International,0,3.9,(2k),Clinical Research,11.6k,57
+376,JCB,0,3.9,(2k),Pune +98 other locations,9k,--
+377,State Street Syntel,0,3.7,(1.9k),Financial Services,8.5k,--
+378,Biocon Limited,0,3.9,(2k),Biotechnology,11.6k,21
+379,Emcure Pharmaceuticals,0,3.7,(2k),Pune +103 other locations,8.1k,39
+380,IntouchCX,1,2.9,(2k),BPO,8.4k,104
+381,Radisson Hotels,0,4.1,(1.9k),New Delhi +113 other locations,5.5k,131
+382,Xoriant,1,4.1,(2k),IT Services & Consulting,11.1k,45
+383,Nokia Networks,0,4.2,(1.9k),Hardware & Networking,11.7k,--
+384,Canara HSBC Life Insurance,1,3.6,(2k),Insurance,6.3k,9
+385,Star Health & Allied Insurance,0,3.6,(2k),Insurance,8.3k,12
+386,DBS Bank,0,3.8,(2k),Banking,12.5k,98
+387,Extramarks Education,1,3.4,(1.9k),EdTech,8k,23
+388,Adani Power,0,3.9,(1.9k),Power,8.2k,--
+389,Cloudnine Hospital,1,4.4,(2k),Healthcare,2.6k,248
+390,Planet Spark,1,3.7,(1.9k),EdTech,2.9k,56
+391,Bharat Financial Inclusion,1,3.9,(1.9k),NBFC,4.2k,14
+392,Cadila Pharmaceuticals,0,3.5,(1.9k),Pharma,7.3k,26
+393,Ninjacart,1,4.0,(1.9k),Internet,5.8k,7
+394,Indian Railways,0,4.1,(1.9k),Railways,3.5k,--
+395,Sobha,0,3.8,(1.9k),Real Estate,8k,77
+396,GlaxoSmithKline Pharmaceuticals,0,4.1,(1.9k),Pharma,5.3k,49
+397,Ola Electric Mobility,0,3.3,(1.9k),Automobile,7.7k,--
+398,Hero FinCorp,0,4.0,(1.9k),NBFC,5.1k,13
+399,BHEL,0,4.1,(1.8k),Electrical Equipment,5.2k,3
